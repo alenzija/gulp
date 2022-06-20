@@ -1,0 +1,8 @@
+body {
+  background-color: antiquewhite;
+  background-image: url("../img/cover.jpg");
+  color: red;
+}
+body p {
+  color: red;
+}
